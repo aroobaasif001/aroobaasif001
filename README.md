@@ -88,6 +88,46 @@ A school learning management application built for streamlined academic access, 
 
 ---
 
+## 🌐 Featured Websites & Web Platforms
+
+### **ExpatStays**
+A modern web platform designed around expat-focused stay discovery and digital accommodation experiences.  
+[Visit Website](https://myexpatstays.com/)
+
+### **TrailRush**
+An outdoor exploration and adventure platform focused on trail discovery, trekking experiences, route guidance, and community-driven outdoor resources.  
+[Visit Website](https://thetrailrush.com/)
+
+### **The Tuitionist**
+An education-focused web platform built to support tutoring, academic services, and digital learning experiences.  
+[Visit Website](https://thetuitionist.com/)
+
+### **SwiftWire**
+A financial technology website supporting digital money transfer positioning, product presentation, and user-facing brand presence.  
+[Visit Website](https://theswiftwire.com/)
+
+### **Tawil**
+A professional travel and Islamic services website focused on trusted Umrah journeys, spiritual travel, and service transparency.  
+[Visit Website](https://tawil.uk/)
+
+### **ApexAppWorks**
+A software development agency website showcasing digital product expertise, mobile app development, websites, AI solutions, and scalable technology services.  
+[Visit Website](https://apexappworks.com/)
+
+### **Vantagem**
+A business-focused digital platform built around smart control, productivity insights, and organized operational experiences.  
+[Visit Website](https://vantagemapp.com/)
+
+### **Rahma Quran Academy**
+An Islamic education website created to support Quran learning, academy visibility, and structured online engagement.  
+[Visit Website](https://rahmaquranacadamy.com/)
+
+### **RiseRich**
+A finance-focused web platform presenting digital financial growth, intelligent product experiences, and wealth-oriented positioning.  
+[Visit Website](https://riserich.ai/)
+
+---
+
 ## 📌 Selected Product Experience
 
 - **Mobile App Development** — Android & iOS applications, cross-platform Flutter products, scalable app architecture, and production-ready releases
