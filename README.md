@@ -26,64 +26,49 @@ Based in SYD, Australia.
 
 ## 📱 Featured Live Apps
 
-### **Level Plus**
-A fitness coaching and client management platform built for trainers and users, featuring workout guidance, nutrition workflows, progress tracking, coaching communication, and structured fitness management experiences.  
+**Level Plus** — A fitness coaching and client management platform built for trainers and users, featuring workout guidance, nutrition workflows, progress tracking, coaching communication, and structured fitness management experiences.  
 [Google Play](https://play.google.com/store/apps/details?id=com.fitnessbynikki.levelplus) | [App Store](https://apps.apple.com/nl/app/level-app/id6759590619?l=en-GB)
 
-### **Voice Buddies**
-A social voice community application centered around live audio rooms, creator-hosted conversations, interactive engagement, and real-time social communication.  
+**Voice Buddies** — A social voice community application centered around live audio rooms, creator-hosted conversations, interactive engagement, and real-time social communication.  
 [Google Play](https://play.google.com/store/apps/details?id=com.app.voicebuddies) | [App Store](https://apps.apple.com/us/app/voice-buddies/id6737117033)
 
-### **SwiftGo AI**
-An AI-powered creator and campaign platform designed to support marketing opportunities, content-driven workflows, talent discovery, and growth-focused digital engagement.  
+**SwiftGo AI** — An AI-powered creator and campaign platform designed to support marketing opportunities, content-driven workflows, talent discovery, and growth-focused digital engagement.  
 [Google Play](https://play.google.com/store/apps/details?id=com.swiftgo.swiftgo) | [App Store](https://apps.apple.com/us/app/swiftgo-ai/id6758090992)
 
-### **ShopChat**
-A business discovery and local commerce platform that helps users search shops, connect through chat and calls, explore businesses, and engage with service providers more directly.  
+**ShopChat** — A business discovery and local commerce platform that helps users search shops, connect through chat and calls, explore businesses, and engage with service providers more directly.  
 [Google Play](https://play.google.com/store/apps/details?id=com.ShopChat.Shop_Chat) | [App Store](https://apps.apple.com/us/app/shop-chat-search-chat-shops/id6755455037)
 
-### **TuttinRete**
-A community and partner-oriented platform built to support structured interaction, service access, and a connected digital experience for its target ecosystem.  
+**TuttinRete** — A community and partner-oriented platform built to support structured interaction, service access, and a connected digital experience for its target ecosystem.  
 [Google Play](https://play.google.com/store/apps/details?id=com.tuttin.tuttin_rete) | [App Store](https://apps.apple.com/it/app/tuttinrete/id6748835004)
 
-### **Tawil - TrulyIslam**
-An Islamic travel and services platform focused on Umrah, spiritual journeys, trusted travel experiences, travel support, and faith-centered digital service delivery.  
+**Tawil - TrulyIslam** — An Islamic travel and services platform focused on Umrah, spiritual journeys, trusted travel experiences, travel support, and faith-centered digital service delivery.  
 [Google Play](https://play.google.com/store/apps/details?id=com.tawil.tawil) | [App Store](https://apps.apple.com/us/app/tawil-trulyislam/id6754604567)
 
-### **SwiftWire**
-A modern financial technology application designed around digital transfers, secure transaction experiences, financial accessibility, and streamlined user money movement.  
+**SwiftWire** — A modern financial technology application designed around digital transfers, secure transaction experiences, financial accessibility, and streamlined user money movement.  
 [Google Play](https://play.google.com/store/apps/details?id=com.swiftWire.swiftWire) | [App Store](https://apps.apple.com/app/swiftwire/id6756324472)
 
-### **RiseRich**
-A finance and wealth-building application focused on empowering users with a structured digital experience around financial growth, engagement, and money-focused product workflows.  
+**RiseRich** — A finance and wealth-building application focused on empowering users with a structured digital experience around financial growth, engagement, and money-focused product workflows.  
 [Google Play](https://play.google.com/store/apps/details?id=com.rise_rich.app) | [App Store](https://apps.apple.com/us/app/rise-rich/id6754073725)
 
-### **Jazb**
-An emotional wellness and self-development platform built to provide a guided, engaging, and meaningful mobile experience around personal growth and inner well-being.  
+**Jazb** — An emotional wellness and self-development platform built to provide a guided, engaging, and meaningful mobile experience around personal growth and inner well-being.  
 [Google Play](https://play.google.com/store/apps/details?id=com.jazb.thetuitionist) | [App Store](https://apps.apple.com/us/app/jazb/id6748350679)
 
-### **The Tuitionist**
-An education and tutoring platform designed to connect students, tutors, and learning services through a structured digital ecosystem focused on academic support.  
+**The Tuitionist** — An education and tutoring platform designed to connect students, tutors, and learning services through a structured digital ecosystem focused on academic support.  
 [Google Play](https://play.google.com/store/apps/details?id=com.release.thetuitionist) | [App Store](https://apps.apple.com/us/app/the-tuitionist/id6759322713)
 
-### **Fluzar**
-An AI-powered social post management platform built for content planning, creative workflow support, post generation, and modern social media productivity.  
+**Fluzar** — An AI-powered social post management platform built for content planning, creative workflow support, post generation, and modern social media productivity.  
 [App Store](https://apps.apple.com/nl/app/fluzar-ai-social-post-manager/id6751750289?l=en-GB)
 
-### **Universal LMS**
-A learning management system designed for structured digital education, course access, student experiences, and modern academic delivery through mobile technology.  
+**Universal LMS** — A learning management system designed for structured digital education, course access, student experiences, and modern academic delivery through mobile technology.  
 [App Store](https://apps.apple.com/us/app/universal-lms/id6503935392)
 
-### **Modern Islamic School LMS**
-A school-focused LMS application built to support academic communication, digital learning access, and institution-specific educational workflows.  
+**Modern Islamic School LMS** — A school-focused LMS application built to support academic communication, digital learning access, and institution-specific educational workflows.  
 [Google Play](https://play.google.com/store/apps/details?id=com.iischool.thetuitionist)
 
-### **Faith School System LMS**
-An educational LMS platform designed to support school operations, learning resources, student access, and digital academic management.  
+**Faith School System LMS** — An educational LMS platform designed to support school operations, learning resources, student access, and digital academic management.  
 [Google Play](https://play.google.com/store/apps/details?id=com.faithschoolsystem.thetuitionist)
 
-### **The Caps School LMS**
-A school learning management application built for streamlined academic access, school communication, digital content delivery, and modern learning support.  
+**The Caps School LMS** — A school learning management application built for streamlined academic access, school communication, digital content delivery, and modern learning support.  
 [Google Play](https://play.google.com/store/apps/details?id=com.capschool.thetuitionist)
 
 ---
@@ -91,39 +76,22 @@ A school learning management application built for streamlined academic access, 
 ## 📌 Selected Product Experience
 
 - **Mobile App Development** — Android & iOS applications, cross-platform Flutter products, scalable app architecture, and production-ready releases
-
 - **App Store & Play Store Deployment** — End-to-end publishing support, store submission workflows, release builds, compliance handling, and live deployment
-
 - **Websites & Web Applications** — Business websites, SaaS platforms, landing pages, customer portals, responsive websites, and modern web-based products
-
 - **Admin Panels & Business Dashboards** — Centralized control systems, analytics dashboards, role-based management portals, reporting, moderation, and operational workflows
-
 - **AI-Powered Products** — AI chatbots, AI assistants, image generation, content creation tools, intelligent recommendations, smart search, and AI-driven user experiences
-
 - **LLM & Generative AI Integrations** — OpenAI-style conversational systems, prompt-based workflows, intelligent copilots, AI agents, context-aware assistants, and custom AI-powered application features
-
 - **AI Automation Systems** — Automated content workflows, lead generation pipelines, customer engagement flows, business process automation, smart notifications, and AI-assisted operations
-
 - **FinTech & Financial Platforms** — Digital wallets, money transfer apps, transaction systems, finance management products, payment flows, secure account handling, and fintech user experiences
-
 - **Live Streaming & Real-Time Communication** — Live video platforms, voice rooms, PK battles, virtual gifting, real-time chat, audio/video calling, and interactive audience engagement systems
-
 - **Marketplaces & Business Discovery Platforms** — Product and service listings, vendor onboarding, smart search, customer-business chat, booking flows, offers, monetization, and discovery experiences
-
 - **Healthcare & Telemedicine Solutions** — Appointment systems, doctor-patient workflows, medical interpreter support, secure consultation flows, role-based dashboards, and real-time video sessions
-
 - **Education & LMS Platforms** — Student learning apps, school management systems, course platforms, digital classrooms, academic portals, and role-based learning experiences
-
 - **Social Networking & Community Platforms** — Location-based discovery, user profiles, messaging, engagement feeds, social matching, community interaction, and user retention systems
-
 - **E-Commerce & Service-Based Platforms** — Online stores, shopping experiences, order workflows, product management, vendor systems, service booking, and customer engagement features
-
 - **Location-Based & Map-Driven Applications** — Nearby discovery, radius-based matching, route systems, outdoor trail platforms, geolocation search, and location-powered product experiences
-
 - **Workflow, Inspection & Audit Systems** — Digital forms, field workflows, audit management, compliance records, inspection reports, operational monitoring, and admin-controlled reporting systems
-
 - **Backend Integrations & APIs** — REST APIs, Firebase, Node.js systems, cloud-based data workflows, authentication, storage, push notifications, payment integrations, and real-time synchronization
-
 - **Scalable Product Engineering** — From idea validation and architecture to UI implementation, backend development, testing, deployment, store publishing, and long-term product growth
 
 ---
