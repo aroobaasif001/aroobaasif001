@@ -12,12 +12,6 @@ Based in SYD, Australia.
   <img src="https://komarev.com/ghpvc/?username=aroobaasif001&label=Profile%20views&color=0e75b6&style=flat" alt="aroobaasif001" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aroobaasif001&theme=onedark" alt="aroobaasif001" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
