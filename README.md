@@ -16,8 +16,8 @@ Based in SYD, Australia.
 
 ## 🚀 About Me
 
-- 🔭 I build scalable **Android apps, iOS apps, websites, web apps, admin panels, AI/ML solutions, LLM-based products, automation systems, marketplaces, fintech platforms, and real-time applications**
-- 🚀 Experienced with **Play Store deployment, App Store deployment, backend integrations, APIs, Firebase, cloud-based systems, and production-ready releases**
+- 🔭 I specialize in building **scalable, production-ready digital products** across mobile, web, AI, fintech, marketplace, and real-time platforms
+- 🚀 Experienced in taking products from **idea and architecture to development, deployment, store publishing, and post-launch improvement**
 - 💬 Ask me about **Flutter, Firebase, AI integrations, LLM applications, automation workflows, live streaming apps, fintech apps, marketplaces, websites, app deployment, and full-stack systems**
 - 👨‍💻 All of my projects are available at [https://github.com/aroobaasif001](https://github.com/aroobaasif001)
 - 📫 How to reach me **developer1@apexappworks.com**
