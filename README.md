@@ -30,17 +30,79 @@ Based in SYD, Australia.
 
 ---
 
-## 📌 Featured Work
+## 📱 Featured Live Apps
 
-- **PK Matchz** — Live streaming and PK battle mobile app
-- **Coin Telemedicine** — Doctor, patient, and medical interpreter consultation platform
-- **Coin Telemedicina Web** — Web-based telemedicine platform
-- **Trail Rush** — Outdoor trail discovery and navigation platform
-- **Live Auction App** — Real-time live auction and bidding platform
-- **Simon The Creator** — AI chatbot and prompt-based image generation app
-- **Amanah Marketplace** — Community-focused marketplace and business discovery app
-- **Havatai** — Live streaming and social entertainment app
-- **Inspection Management System** — Digital inspection and audit platform
+### **Level Plus**
+Fitness coaching and client management platform with mobile-first workout, nutrition, and coaching experiences.  
+[Google Play](https://play.google.com/store/apps/details?id=com.fitnessbynikki.levelplus) | [App Store](https://apps.apple.com/nl/app/level-app/id6759590619?l=en-GB)
+
+### **Voice Buddies**
+Social voice community app built around live rooms, audio engagement, and real-time interaction.  
+[Google Play](https://play.google.com/store/apps/details?id=com.app.voicebuddies) | [App Store](https://apps.apple.com/us/app/voice-buddies/id6737117033)
+
+### **SwiftGo AI**
+AI-powered creator and campaign platform focused on marketing, discovery, and growth opportunities.  
+[Google Play](https://play.google.com/store/apps/details?id=com.swiftgo.swiftgo) | [App Store](https://apps.apple.com/us/app/swiftgo-ai/id6758090992)
+
+### **ShopChat**
+Business discovery and communication platform that helps users search shops, chat, call, and connect with local businesses.  
+[Google Play](https://play.google.com/store/apps/details?id=com.ShopChat.Shop_Chat) | [App Store](https://apps.apple.com/us/app/shop-chat-search-chat-shops/id6755455037)
+
+### **TuttinRete**
+Community and partner-focused digital platform designed for organized interaction and service access.  
+[Google Play](https://play.google.com/store/apps/details?id=com.tuttin.tuttin_rete) | [App Store](https://apps.apple.com/it/app/tuttinrete/id6748835004)
+
+### **Tawil - TrulyIslam**
+Islamic travel and services platform focused on Umrah, spiritual journeys, and trusted travel experiences.  
+[Google Play](https://play.google.com/store/apps/details?id=com.tawil.tawil) | [App Store](https://apps.apple.com/us/app/tawil-trulyislam/id6754604567)
+
+### **SwiftWire**
+Modern money transfer and digital finance platform designed for secure and streamlined transactions.  
+[Google Play](https://play.google.com/store/apps/details?id=com.swiftWire.swiftWire) | [App Store](https://apps.apple.com/app/swiftwire/id6756324472)
+
+### **Fluzar**
+AI-powered social post management and content workflow application.  
+[App Store](https://apps.apple.com/nl/app/fluzar-ai-social-post-manager/id6751750289?l=en-GB)
+
+### **RiseRich**
+Finance and growth-focused platform designed to support wealth-building and financial engagement experiences.  
+[Google Play](https://play.google.com/store/apps/details?id=com.rise_rich.app) | [App Store](https://apps.apple.com/us/app/rise-rich/id6754073725)
+
+### **Jazb**
+Emotional wellness and self-development application built around a guided, engaging mobile experience.  
+[Google Play](https://play.google.com/store/apps/details?id=com.jazb.thetuitionist) | [App Store](https://apps.apple.com/us/app/jazb/id6748350679)
+
+### **The Tuitionist**
+Education platform connecting students, tutors, and learning services through a structured digital experience.  
+[Google Play](https://play.google.com/store/apps/details?id=com.release.thetuitionist) | [App Store](https://apps.apple.com/us/app/the-tuitionist/id6759322713)
+
+### **Universal LMS**
+Learning management system designed for digital education, course access, and structured academic experiences.  
+[App Store](https://apps.apple.com/us/app/universal-lms/id6503935392)
+
+### **Modern Islamic School LMS**
+School-focused learning management platform for academic communication and digital education workflows.  
+[Google Play](https://play.google.com/store/apps/details?id=com.iischool.thetuitionist)
+
+### **Faith School System LMS**
+Educational LMS application built to support school operations, student access, and learning management.  
+[Google Play](https://play.google.com/store/apps/details?id=com.faithschoolsystem.thetuitionist)
+
+### **The Caps School LMS**
+School learning management system designed for academic access and streamlined digital education.  
+[Google Play](https://play.google.com/store/apps/details?id=com.capschool.thetuitionist)
+
+---
+
+## 📌 Selected Product Experience
+
+- **Live Streaming Platforms** — Creator apps, voice rooms, audience engagement, gifting, and real-time communication
+- **AI-Powered Products** — AI chatbots, image generation, creator tools, and intelligent content workflows
+- **Marketplaces & Discovery Apps** — Business discovery, local search, listings, chat, and service connection
+- **Healthcare & Telemedicine** — Appointment systems, doctor-patient workflows, interpreters, and video consultation flows
+- **Education & LMS Platforms** — Student portals, course experiences, school systems, and admin-managed learning tools
+- **Finance & Transaction Apps** — Digital payment flows, wallet-based experiences, and secure financial platforms
+- **Admin Panels & Web Dashboards** — Operational control systems, reporting, moderation, and business management tools
 
 ---
 
